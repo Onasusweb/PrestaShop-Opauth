@@ -292,6 +292,7 @@ function createUser($_data)
                 getNbProducts($cookie->id_cart) == 0))
                 $cookie->id_cart = intval(Cart::lastNoneOrderedCart(intval($customer->id)));
             Module::hookExec('authentication');
+            Tools::redirect('index.php');
 
         } else {
             if ($email == "nothing") {

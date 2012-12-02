@@ -1,51 +1,70 @@
 PrestaShop-Opauth
 =================
 Opauth plugin for PrestaShop v1.4.x, allowing simple plug-n-play 3rd-party authentication with PrestaShop 1.4.x Version
-Project Managers - [Amaury PLANÇON][1]
-Developers/Programmers - [Open Presta][2]
+- Project Managers
+  [Amaury PLANÇON][1]
+	
+- Developers/Programmers
+  [Open Presta][2]
+  [Amaury PLANÇON][1]
 
 Implemented based on
-1. [Opauth][3] - Multi-provider authentication framework for PHP
-2. [EmailVerify][4] - PrestaShop module by Mellow
+- [Opauth][3] - Multi-provider authentication framework for PHP
+
+- [EmailVerify][4] - PrestaShop module by Mellow
 
 Changelog
-------------
+---------
 
-= 1.0 =
-	- Initial version allowing simple plug-n-play 3rd-party authentication for Facebook, Twitter & Google
+####v1.1.0 _(01 December 2012)_
+- LinkedIn
+- PayPal
 
-= 1.0.1 =
-	- Bug Fix
+####v1.0.1 _(01 December 2012)_
+- Quick Fix
 
-= 1.1b1 =
-	- LinkedIn
-	- PayPal
+####v1.0.0 _(01 December 2012)_
+- Initial release allowing simple plug-n-play 3rd-party authentication for Facebook, Twitter & Google
 
-Built-In Strategies
-----------------------
+Available strategies
+--------------------
+A strategy is a set of instructions that interfaces with respective authentication providers and relays it back to Opauth.
 
-1. Facebook
-	- @author	uzyn
-	- @link		https://github.com/uzyn/opauth-facebook
+Provider-specific:
 
-2. Twitter
-	- @author	uzyn
-	- @link		https://github.com/uzyn/opauth-twitter
+- Facebook
+  @author	uzyn
+  @link		https://github.com/uzyn/opauth-facebook
 
-3. Google
-	- @author	uzyn
-	- @link		https://github.com/uzyn/opauth-google
+- Twitter
+  @author	uzyn
+  @link		https://github.com/uzyn/opauth-twitter
 
-4. LinkedIn
-	- @author	uzyn
-	- @link		https://github.com/uzyn/opauth-linkedin
+- Google
+  @author	uzyn
+  @link		https://github.com/uzyn/opauth-google
 
-5. PayPal
-	- @author	24hours
-	- @link		https://github.com/24hours/opauth-paypal
+- LinkedIn
+  @author	uzyn
+  @link		https://github.com/uzyn/opauth-linkedin
 
-Contributing
-------------
+- PayPal
+  @author	24hours
+  @link		https://github.com/24hours/opauth-paypal
+
+Requirements
+-------------
+PHP 5 (>= 5.2)
+
+Contribute
+----------
+PrestaShop-Opauth needs your contributions, especially the following:
+
+- Issues 
+  Refer to [issues](https://github.com/aPlancon69/PrestaShop-Opauth/issues) to see open issues.
+
+How to Contribute
+------------------
 
 1. Fork it.
 2. Create a branch (`git checkout -b my_markup`)

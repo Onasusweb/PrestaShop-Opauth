@@ -1,0 +1,9 @@
+Bonjour,
+
+Un nouveau client vient de s'enregistrer sur {shop_name}.
+Le client a validé son adresse e-mail et activé son compte.
+
+Ce message a été envoyé par le module EmailVerify. 
+Si vous ne souhaitez plus recevoir cette notification vous pouvez désactiver l'option dans le BackOffice de votre boutique.
+
+{shop_url}

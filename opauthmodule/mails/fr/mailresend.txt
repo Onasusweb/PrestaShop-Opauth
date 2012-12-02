@@ -1,0 +1,12 @@
+Bonjour,
+
+Merci d'avoir créé votre compte client sur {shop_name}.
+
+Veuillez cliquer sur le lien suivant afin d'activer votre compte :
+{shop_url}{actlink}
+
+Si le lien ne fonctionne pas, merci de le copier puis  de le coller dans la barre d'adresse de votre navigateur internet.
+
+Une fois votre compte activé, vous pourrez vous connecter et passer commande sur le site.
+
+{shop_url}

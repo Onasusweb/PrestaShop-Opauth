@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>opauthmodule</name>
+	<displayName><![CDATA[Opauth for PrestaShop]]></displayName>
+	<version><![CDATA[1.1]]></version>
+	<description><![CDATA[Opauth plugin for PrestaShop v1.4.x, allowing simple plug-n-play 3rd-party authentication with PrestaShop 1.4.x Version ]]></description>
+	<author><![CDATA[]]></author>
+	<tab><![CDATA[]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

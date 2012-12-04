@@ -1,0 +1,9 @@
+Hi,
+
+A new customer has just register on {shop_name}.
+The customer validated his email address and activated his account.
+
+This message was sent by EmailVerify module.
+If you don't want to receive this notification you can disable the option in your shop's BackOffice.
+
+{shop_url}

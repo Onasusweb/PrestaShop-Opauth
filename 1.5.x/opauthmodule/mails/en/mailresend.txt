@@ -1,0 +1,12 @@
+Hi,
+
+Thank you for creating a customer account at {shop_name}.
+
+Please click on the link below to activate your account :
+{shop_url}{actlink}
+
+If clicking the link does not work, please copy and paste it into your browser's navigation bar.
+
+Once your account will be activated you will be able to place orders on our shop.
+
+{shop_url}
